@@ -30,8 +30,8 @@ Download the APK from the [Releases](https://github.com/yourusername/calculator-
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
-   cd calculator-app
+   git clone https://github.com/yourusername/Kivy-Calculator.git
+   cd Kivy-Calculator
    ```
 
 2. Set up a virtual environment (recommended):
@@ -76,7 +76,7 @@ To build the Android APK yourself:
 ## Project Structure
 
 ```
-calculator-app/
+Kivy-Calculator/
 ├── main.py             # Entry point
 ├── calculator.py       # Main application logic
 ├── history.db          # SQLite database for calculation history
